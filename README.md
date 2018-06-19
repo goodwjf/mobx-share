@@ -1,3 +1,3 @@
 # mobx-share
 分享ppt
-https://ppt.baomitu.com/p/b3bbf855#/
+https://ppt.baomitu.com/d/b3bbf855
